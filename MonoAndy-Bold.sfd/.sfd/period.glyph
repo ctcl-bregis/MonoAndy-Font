@@ -1,0 +1,38 @@
+StartChar: period
+Encoding: 46 46 17
+Width: 1350
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_6
+ 3
+ 3
+ 9
+ 6
+ 6
+ 0
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+SVTCA[y-axis]
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+579 76 m 0,0,1
+ 579 117 579 117 616.5 150.5 c 128,-1,2
+ 654 184 654 184 700 184 c 0,3,4
+ 742 184 742 184 777.5 135.5 c 128,-1,5
+ 813 87 813 87 813 45 c 0,6,7
+ 813 13 813 13 779 -11 c 128,-1,8
+ 745 -35 745 -35 700 -35 c 0,9,10
+ 579 -35 579 -35 579 76 c 0,0,1
+EndSplineSet
+Validated: 1
+Kerns2: 89 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 86 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 73 -50 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 61 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 58 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 57 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 55 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 51 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 48 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 46 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

@@ -1,0 +1,107 @@
+StartChar: guillemotright
+Encoding: 187 187 125
+Width: 961
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 27
+ 6
+ 19
+ 6
+ 19
+ 12
+ 34
+ 47
+ 47
+ 34
+ 12
+ 3
+ 40
+ 36
+ 36
+ 44
+ 44
+ 40
+ 40
+ 53
+ 8
+ 8
+ 16
+ 53
+ 16
+ 12
+ 12
+ 25
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+SHP[rp1]
+SHP[rp1]
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+SVTCA[y-axis]
+RTHG
+MDAP[rnd]
+SLOOP
+SHP[rp1]
+RTG
+MDAP[rnd]
+MDAP[rnd]
+RTHG
+MDAP[rnd]
+SHP[rp1]
+SHP[rp1]
+RTG
+MDAP[rnd]
+MDAP[rnd]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+765 515 m 0,0,1
+ 710 463 710 463 674 422 c 0,2,3
+ 661 410 661 410 638 387 c 0,4,5
+ 567 316 567 316 538 316 c 0,6,7
+ 477 316 477 316 477 360 c 0,8,9
+ 477 418 477 418 528 463 c 0,10,11
+ 577 507 577 507 659 600 c 1,12,13
+ 641 632 641 632 516 715 c 0,14,15
+ 471 744 471 744 471 797 c 0,16,17
+ 471 815 471 815 486.5 828.5 c 128,-1,18
+ 502 842 502 842 524 842 c 0,19,20
+ 585 842 585 842 667 761 c 0,21,22
+ 706 722 706 722 753 686 c 0,23,24
+ 819 636 819 636 819 602 c 0,25,26
+ 819 585 819 585 811.5 569 c 128,-1,27
+ 804 553 804 553 765 515 c 0,0,1
+472 513 m 0,28,29
+ 418 462 418 462 383 422 c 0,30,31
+ 371 411 371 411 350 389 c 0,32,33
+ 278 316 278 316 247 316 c 0,34,35
+ 186 316 186 316 186 360 c 0,36,37
+ 186 418 186 418 237 464 c 0,38,39
+ 280 501 280 501 369 600 c 1,40,41
+ 350 632 350 632 225 715 c 0,42,43
+ 180 744 180 744 180 797 c 0,44,45
+ 180 815 180 815 195.5 828.5 c 128,-1,46
+ 211 842 211 842 233 842 c 0,47,48
+ 294 842 294 842 376 761 c 0,49,50
+ 415 722 415 722 462 686 c 0,51,52
+ 528 636 528 636 528 602 c 0,53,54
+ 528 585 528 585 520.5 568 c 128,-1,55
+ 513 551 513 551 472 513 c 0,28,29
+EndSplineSet
+Validated: 1
+Kerns2: 92 30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 91 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 61 -50 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

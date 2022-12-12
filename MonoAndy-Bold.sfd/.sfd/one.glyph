@@ -1,0 +1,85 @@
+StartChar: one
+Encoding: 49 49 20
+Width: 1350
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 41
+ 3
+ 15
+ 12
+ 139
+ 19
+ 19
+ 5
+ 139
+ 0
+ 0
+ 16
+ 0
+ 32
+ 0
+ 48
+ 0
+ 176
+ 0
+ 5
+ 0
+ 0
+ 48
+ 0
+ 64
+ 0
+ 80
+ 0
+ 96
+ 0
+ 112
+ 0
+ 128
+ 0
+ 208
+ 0
+ 224
+ 0
+ 240
+ 0
+ 10
+ 0
+MDAP[rnd]
+DELTAP1
+DELTAP2
+MIRP[min,rnd,black]
+IP
+MDAP[rnd]
+MIRP[min,rnd,black]
+SVTCA[y-axis]
+MDAP[rnd]
+MDAP[rnd]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+543 1030 m 0,0,1
+ 543 1074 543 1074 570.5 1098 c 128,-1,2
+ 598 1122 598 1122 644 1122 c 0,3,4
+ 733 1122 733 1122 752 1046 c 0,5,6
+ 768 980 768 980 781.5 834.5 c 128,-1,7
+ 795 689 795 689 795 551 c 0,8,9
+ 795 391 795 391 817 229 c 0,10,11
+ 824 181 824 181 824 166 c 0,12,13
+ 824 133 824 133 785.5 99.5 c 128,-1,14
+ 747 66 747 66 711 66 c 0,15,16
+ 683 66 683 66 658 78.5 c 128,-1,17
+ 633 91 633 91 619 111 c 128,-1,18
+ 605 131 605 131 597 245 c 0,19,20
+ 586 423 586 423 586 610 c 0,21,22
+ 586 730 586 730 557 908 c 0,23,24
+ 543 999 543 999 543 1030 c 0,0,1
+EndSplineSet
+Validated: 1
+Kerns2: 92 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 60 30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 58 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 52 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

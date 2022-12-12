@@ -1,0 +1,101 @@
+StartChar: ellipsis
+Encoding: 8230 8230 227
+Width: 1241
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 32
+ 25
+ 14
+ 25
+ 14
+ 3
+ 3
+ 9
+ 31
+ 20
+ 31
+ 20
+ 9
+ 28
+ 28
+ 64
+ 22
+ 1
+ 22
+ 64
+ 17
+ 1
+ 17
+ 22
+ 17
+ 64
+ 11
+ 1
+ 11
+ 6
+ 11
+ 6
+ 0
+MDAP[rnd]
+SHP[rp1]
+SHP[rp1]
+MDAP[rnd]
+MDAP[rnd]
+DELTAP1
+SHP[rp1]
+SHP[rp1]
+MDAP[rnd]
+DELTAP1
+MDAP[rnd]
+DELTAP1
+SHP[rp1]
+MDAP[rnd]
+SVTCA[y-axis]
+MDAP[rnd]
+SHP[rp1]
+SHP[rp1]
+MDAP[rnd]
+MDAP[rnd]
+SRP1
+SHP[rp1]
+MDAP[rnd]
+SHP[rp1]
+SHP[rp1]
+MDAP[rnd]
+MDAP[rnd]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+90 76 m 0,0,1
+ 90 117 90 117 127.5 150.5 c 128,-1,2
+ 165 184 165 184 211 184 c 0,3,4
+ 253 184 253 184 288.5 135.5 c 128,-1,5
+ 324 87 324 87 324 45 c 0,6,7
+ 324 13 324 13 290 -11 c 128,-1,8
+ 256 -35 256 -35 211 -35 c 0,9,10
+ 90 -35 90 -35 90 76 c 0,0,1
+504 76 m 0,11,12
+ 504 117 504 117 541.5 150.5 c 128,-1,13
+ 579 184 579 184 625 184 c 0,14,15
+ 667 184 667 184 704 135 c 128,-1,16
+ 741 86 741 86 741 45 c 0,17,18
+ 741 13 741 13 705.5 -11 c 128,-1,19
+ 670 -35 670 -35 625 -35 c 0,20,21
+ 504 -35 504 -35 504 76 c 0,11,12
+917 76 m 0,22,23
+ 917 117 917 117 954.5 150.5 c 128,-1,24
+ 992 184 992 184 1038 184 c 0,25,26
+ 1080 184 1080 184 1115.5 135.5 c 128,-1,27
+ 1151 87 1151 87 1151 45 c 0,28,29
+ 1151 12 1151 12 1117 -11.5 c 128,-1,30
+ 1083 -35 1083 -35 1038 -35 c 0,31,32
+ 917 -35 917 -35 917 76 c 0,22,23
+EndSplineSet
+Validated: 1
+Kerns2: 74 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 71 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 55 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

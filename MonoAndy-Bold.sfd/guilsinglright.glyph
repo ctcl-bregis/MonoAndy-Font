@@ -1,0 +1,61 @@
+StartChar: guilsinglright
+Encoding: 8250 8250 230
+Width: 737
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 12
+ 6
+ 19
+ 6
+ 19
+ 12
+ 8
+ 8
+ 16
+ 12
+ 16
+ 12
+ 25
+MDAP[rnd]
+SHP[rp1]
+SHP[rp1]
+MDAP[rnd]
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+SVTCA[y-axis]
+RTHG
+MDAP[rnd]
+SHP[rp1]
+SHP[rp1]
+RTG
+MDAP[rnd]
+MDAP[rnd]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+472 513 m 0,0,1
+ 418 462 418 462 383 422 c 0,2,3
+ 371 411 371 411 350 389 c 0,4,5
+ 278 316 278 316 247 316 c 0,6,7
+ 186 316 186 316 186 360 c 0,8,9
+ 186 418 186 418 237 464 c 0,10,11
+ 280 501 280 501 369 600 c 1,12,13
+ 350 632 350 632 225 715 c 0,14,15
+ 180 744 180 744 180 797 c 0,16,17
+ 180 815 180 815 195.5 828.5 c 128,-1,18
+ 211 842 211 842 233 842 c 0,19,20
+ 294 842 294 842 376 761 c 0,21,22
+ 415 722 415 722 462 686 c 0,23,24
+ 528 636 528 636 528 602 c 0,25,26
+ 528 585 528 585 520.5 568 c 128,-1,27
+ 513 551 513 551 472 513 c 0,0,1
+EndSplineSet
+Validated: 1
+Kerns2: 71 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 57 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 48 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

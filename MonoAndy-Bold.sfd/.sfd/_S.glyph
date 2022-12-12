@@ -1,0 +1,105 @@
+StartChar: S
+Encoding: 83 83 54
+Width: 1350
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 29
+ 35
+ 35
+ 9
+ 44
+ 146
+ 28
+ 9
+ 9
+ 14
+ 145
+ 4
+ 32
+ 127
+ 37
+ 37
+ 17
+ 31
+ 7
+ 1
+ 7
+ 7
+ 17
+ 47
+ 128
+ 24
+ 24
+ 17
+ 128
+ 0
+MDAP[rnd]
+MIRP[min,rnd,black]
+SHP[rp1]
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+SRP1
+IP
+MDAP[rnd]
+DELTAP1
+SRP2
+IP
+MDAP[rnd]
+MIRP[min,rnd,black]
+SVTCA[y-axis]
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+SHP[rp2]
+MDAP[rnd]
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+SRP1
+IP
+MDAP[rnd]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+10 944 m 0,0,1
+ 10 1030 10 1030 100.5 1137.5 c 128,-1,2
+ 191 1245 191 1245 327.5 1328 c 128,-1,3
+ 464 1411 464 1411 549 1411 c 0,4,5
+ 643 1411 643 1411 703.5 1347.5 c 128,-1,6
+ 764 1284 764 1284 764 1210 c 0,7,8
+ 764 1100 764 1100 695 1100 c 0,9,10
+ 607 1100 607 1100 589 1170 c 0,11,12
+ 579 1210 579 1210 559.5 1222.5 c 128,-1,13
+ 540 1235 540 1235 504 1235 c 0,14,15
+ 434 1235 434 1235 313.5 1140.5 c 128,-1,16
+ 193 1046 193 1046 193 999 c 0,17,18
+ 193 978 193 978 275 963 c 0,19,20
+ 609 901 609 901 768 840 c 0,21,22
+ 941 773 941 773 1012.5 682 c 128,-1,23
+ 1084 591 1084 591 1084 430 c 0,24,25
+ 1084 310 1084 310 1005 203 c 128,-1,26
+ 926 96 926 96 789 24.5 c 128,-1,27
+ 652 -47 652 -47 539 -47 c 0,28,29
+ 460 -47 460 -47 400 -7.5 c 128,-1,30
+ 340 32 340 32 304.5 107 c 128,-1,31
+ 269 182 269 182 269 254 c 0,32,33
+ 269 353 269 353 306.5 426.5 c 128,-1,34
+ 344 500 344 500 406 500 c 0,35,36
+ 502 500 502 500 502 428 c 0,37,38
+ 502 402 502 402 484 350 c 0,39,40
+ 461 285 461 285 461 246 c 0,41,42
+ 461 177 461 177 493 144.5 c 128,-1,43
+ 525 112 525 112 596 109 c 0,44,45
+ 714 109 714 109 800.5 199.5 c 128,-1,46
+ 887 290 887 290 887 410 c 0,47,48
+ 887 505 887 505 843.5 564 c 128,-1,49
+ 800 623 800 623 699 658 c 0,50,51
+ 511 724 511 724 160 777 c 0,52,53
+ 10 800 10 800 10 944 c 0,0,1
+EndSplineSet
+Validated: 1
+Kerns2: 222 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 219 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 198 30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 194 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 186 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 114 -60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 92 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 86 30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 71 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 60 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 59 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 57 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 56 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 55 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 52 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 50 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 47 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 45 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 42 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 38 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 10 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 9 30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 5 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

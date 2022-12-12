@@ -1,0 +1,38 @@
+StartChar: underscore
+Encoding: 95 95 66
+Width: 1350
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_5
+ 6
+ 6
+ 0
+ 3
+ 10
+MDAP[rnd]
+MDAP[rnd]
+SVTCA[y-axis]
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+1278 -362 m 2,0,1
+ 1305 -362 1305 -362 1327.5 -396 c 128,-1,2
+ 1350 -430 1350 -430 1350 -467 c 0,3,4
+ 1350 -494 1350 -494 1327.5 -521.5 c 128,-1,5
+ 1305 -549 1305 -549 1278 -549 c 2,6,-1
+ 67 -549 l 2,7,8
+ 42 -549 42 -549 21.5 -524.5 c 128,-1,9
+ 1 -500 1 -500 1 -472 c 0,10,11
+ 1 -431 1 -431 20 -396.5 c 128,-1,12
+ 39 -362 39 -362 67 -362 c 2,13,-1
+ 1278 -362 l 2,0,1
+EndSplineSet
+Validated: 1
+EndChar

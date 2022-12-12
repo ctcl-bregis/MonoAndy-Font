@@ -1,0 +1,39 @@
+StartChar: bullet
+Encoding: 8226 8226 226
+Width: 717
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_6
+ 9
+ 9
+ 3
+ 6
+ 6
+ 0
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+SVTCA[y-axis]
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+113 647 m 0,0,1
+ 113 755 113 755 197.5 849.5 c 128,-1,2
+ 282 944 282 944 383 944 c 0,3,4
+ 499 944 499 944 562 867.5 c 128,-1,5
+ 625 791 625 791 625 649 c 0,6,7
+ 625 556 625 556 547 466.5 c 128,-1,8
+ 469 377 469 377 383 377 c 0,9,10
+ 242 377 242 377 177.5 442 c 128,-1,11
+ 113 507 113 507 113 647 c 0,0,1
+EndSplineSet
+Validated: 1
+Kerns2: 92 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 60 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 49 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

@@ -1,0 +1,42 @@
+StartChar: quoteright
+Encoding: 8217 8217 219
+Width: 356
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_6
+ 14
+ 14
+ 7
+ 10
+ 10
+ 0
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+SVTCA[y-axis]
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+-8 1122 m 0,0,1
+ -8 1151 -8 1151 48 1227 c 0,2,3
+ 73 1260 73 1260 107 1322 c 0,4,5
+ 143 1389 143 1389 161.5 1408 c 128,-1,6
+ 180 1427 180 1427 199 1427 c 0,7,8
+ 244 1427 244 1427 285 1396.5 c 128,-1,9
+ 326 1366 326 1366 326 1339 c 0,10,11
+ 326 1313 326 1313 282 1232.5 c 128,-1,12
+ 238 1152 238 1152 177 1106.5 c 128,-1,13
+ 116 1061 116 1061 86 1061 c 0,14,15
+ 47 1061 47 1061 19.5 1078 c 128,-1,16
+ -8 1095 -8 1095 -8 1122 c 0,0,1
+EndSplineSet
+Validated: 1
+Kerns2: 72 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 57 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 49 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

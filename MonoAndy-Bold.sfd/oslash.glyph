@@ -1,0 +1,156 @@
+StartChar: oslash
+Encoding: 248 248 186
+Width: 917
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 50
+ 45
+ 28
+ 13
+ 13
+ 189
+ 0
+ 45
+ 20
+ 0
+ 0
+ 45
+ 45
+ 28
+ 68
+ 25
+ 13
+ 0
+ 55
+ 149
+ 51
+ 4
+ 4
+ 51
+ 21
+ 68
+ 149
+ 25
+ 34
+ 22
+ 34
+ 22
+ 25
+ 28
+ 45
+ 58
+ 0
+ 13
+ 72
+ 15
+ 37
+ 58
+ 131
+ 37
+ 47
+ 7
+ 72
+ 131
+ 47
+ 7
+ 15
+MDAP[rnd]
+SHP[rp1]
+SHP[rp1]
+MIRP[min,rnd,black]
+MDAP[rnd]
+MDAP[rnd]
+SHP[rp1]
+MIRP[min,rnd,black]
+MDAP[rnd]
+SRP1
+SRP2
+IP
+IP
+SRP1
+SRP2
+IP
+SVTCA[y-axis]
+MDAP[rnd]
+SHP[rp1]
+SHP[rp1]
+MDAP[rnd]
+MDAP[rnd]
+SRP0
+MIRP[min,rnd,black]
+MIAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+SRP0
+MIRP[min,rnd,black]
+IP
+IP
+SRP1
+SRP2
+IP
+IP
+SDPVTL[orthog]
+SFVTPV
+MDAP[no-rnd]
+CALL
+SDPVTL[orthog]
+SFVTPV
+RDTG
+MDRP[rnd,grey]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+260 25 m 1,0,1
+ 246 4 246 4 228 -24 c 0,2,3
+ 193 -82 193 -82 150 -82 c 0,4,5
+ 122 -82 122 -82 103 -66.5 c 128,-1,6
+ 84 -51 84 -51 84 -27 c 0,7,8
+ 84 33 84 33 117 68 c 0,9,10
+ 118 69 118 69 123 77 c 0,11,12
+ 138 98 138 98 152 115 c 1,13,14
+ 82 214 82 214 82 375 c 0,15,16
+ 82 513 82 513 149.5 660.5 c 128,-1,17
+ 217 808 217 808 315 885 c 0,18,19
+ 324 891 324 891 334 907 c 0,20,21
+ 353 938 353 938 387 938 c 0,22,23
+ 413 938 413 938 446 927 c 0,24,25
+ 477 917 477 917 500 917 c 0,26,27
+ 571 917 571 917 653 858 c 1,28,29
+ 667 879 667 879 691 916 c 0,30,31
+ 726 966 726 966 731 978 c 0,32,33
+ 741 1004 741 1004 772 1004 c 0,34,35
+ 801 1004 801 1004 818.5 985.5 c 128,-1,36
+ 836 967 836 967 836 936 c 0,37,38
+ 836 907 836 907 803 848 c 0,39,40
+ 802 847 802 847 801 846 c 0,41,42
+ 797 838 797 838 774 805 c 0,43,44
+ 755 777 755 777 748 766 c 1,45,46
+ 829 649 829 649 829 487 c 0,47,48
+ 829 356 829 356 770.5 245 c 128,-1,49
+ 712 134 712 134 608.5 64 c 128,-1,50
+ 505 -6 505 -6 406 -6 c 0,51,52
+ 323 -6 323 -6 260 25 c 1,0,1
+354 172 m 1,53,54
+ 382 131 382 131 432 131 c 0,55,56
+ 493 131 493 131 549.5 229 c 128,-1,57
+ 606 327 606 327 606 444 c 0,58,59
+ 606 493 606 493 600 537 c 1,60,61
+ 545 459 545 459 354 172 c 1,53,54
+309 328 m 1,62,63
+ 342 376 342 376 414 492 c 0,64,65
+ 506 640 506 640 549 700 c 1,66,67
+ 512 770 512 770 477 770 c 0,68,69
+ 444 770 444 770 400.5 708 c 128,-1,70
+ 357 646 357 646 330 559 c 128,-1,71
+ 303 472 303 472 303 387 c 0,72,73
+ 303 382 303 382 306 355 c 0,74,75
+ 309 332 309 332 309 328 c 1,62,63
+EndSplineSet
+Validated: 1
+Kerns2: 72 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 71 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 58 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 55 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 54 -50 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 46 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar

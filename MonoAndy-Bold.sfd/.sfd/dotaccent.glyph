@@ -1,0 +1,37 @@
+StartChar: dotaccent
+Encoding: 729 729 209
+Width: 469
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_6
+ 3
+ 3
+ 9
+ 6
+ 6
+ 0
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+SVTCA[y-axis]
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+88 1169 m 0,0,1
+ 88 1211 88 1211 125 1244.5 c 128,-1,2
+ 162 1278 162 1278 209 1278 c 0,3,4
+ 251 1278 251 1278 286.5 1229.5 c 128,-1,5
+ 322 1181 322 1181 322 1139 c 0,6,7
+ 322 1107 322 1107 288 1083 c 128,-1,8
+ 254 1059 254 1059 209 1059 c 0,9,10
+ 88 1059 88 1059 88 1169 c 0,0,1
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,97 @@
+StartChar: question
+Encoding: 63 63 34
+Width: 1350
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 25
+ 12
+ 12
+ 44
+ 44
+ 39
+ 27
+ 27
+ 23
+ 149
+ 33
+ 36
+ 36
+ 41
+ 41
+ 16
+ 10
+ 10
+ 16
+ 16
+ 30
+ 20
+ 131
+ 0
+ 0
+ 30
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+MIRP[min,rnd,black]
+SRP2
+IP
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+SRP2
+IP
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+SVTCA[y-axis]
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+SHP[rp2]
+MDAP[rnd]
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+1084 1020 m 0,0,1
+ 1084 892 1084 892 998 775 c 128,-1,2
+ 912 658 912 658 709 522 c 0,3,4
+ 668 495 668 495 668 414 c 0,5,6
+ 668 407 668 407 674 377 c 0,7,8
+ 680 346 680 346 680 338 c 0,9,10
+ 680 320 680 320 654 304.5 c 128,-1,11
+ 628 289 628 289 598 289 c 0,12,13
+ 550 289 550 289 525.5 309.5 c 128,-1,14
+ 501 330 501 330 481 389.5 c 128,-1,15
+ 461 449 461 449 461 487 c 0,16,17
+ 461 574 461 574 554 627 c 0,18,19
+ 862 806 862 806 862 1026 c 0,20,21
+ 862 1128 862 1128 803 1188.5 c 128,-1,22
+ 744 1249 744 1249 656 1249 c 0,23,24
+ 552 1249 552 1249 471 1170 c 0,25,26
+ 424 1124 424 1124 387 1124 c 0,27,28
+ 351 1124 351 1124 321 1151 c 128,-1,29
+ 291 1178 291 1178 291 1202 c 0,30,31
+ 291 1294 291 1294 400 1358.5 c 128,-1,32
+ 509 1423 509 1423 645 1423 c 0,33,34
+ 838 1423 838 1423 961 1310.5 c 128,-1,35
+ 1084 1198 1084 1198 1084 1020 c 0,0,1
+725 45 m 0,36,37
+ 725 12 725 12 691 -11.5 c 128,-1,38
+ 657 -35 657 -35 612 -35 c 0,39,40
+ 492 -35 492 -35 492 76 c 0,41,42
+ 492 117 492 117 529 150.5 c 128,-1,43
+ 566 184 566 184 612 184 c 0,44,45
+ 654 184 654 184 689.5 135.5 c 128,-1,46
+ 725 87 725 87 725 45 c 0,36,37
+EndSplineSet
+Kerns2: 223 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 220 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 61 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 60 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 55 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 52 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 36 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+EndChar
